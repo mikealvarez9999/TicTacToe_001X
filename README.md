@@ -1,4 +1,4 @@
-# TicTacToe_001X
+# TicTacToe_001X_V1
 This is a basic Tic Tac Toe game I made using pygame library in Python. This is a project for my CSE200 Lab Course.
 
 Here I primarily use the pygame library and various functions associated with it to develop a (seemingly) complete Tic Tac Toe game. 
